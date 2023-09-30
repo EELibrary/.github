@@ -6,7 +6,7 @@
 - [DirtyMolia](https://github.com/Era4FunMC/DirtyMolia)
 - [MillaCat](https://github.com/Era4FunMC/MillaCat)
 - [SandFolia](https://github.com/Era4FunMC/SandFolia)
-- [MyYsm(PrivateProject)]
+- MyYsm(PrivateProject)
 
 # 联系
 Owner:
