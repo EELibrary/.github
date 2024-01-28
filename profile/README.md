@@ -13,4 +13,7 @@ Owner:
 - Mail: wangxyper@outlook.com || novau233@163.com
 - Tg: @M2ke4U
 - Discord: M2ke4U#2209
-- QQ: 2506442080 
+- QQ: 2506442080
+Group :
+ Discord: https://discord.gg/8GKSUNw9
+ QQ: 368632360
